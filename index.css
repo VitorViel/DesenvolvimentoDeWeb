@@ -1,0 +1,46 @@
+h1{
+    font-family: cursive;
+    font-size: 50px;
+}
+h2{
+    font-size: 30px;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h3{
+    font-size: 20px;
+    
+}
+.pn{
+    font-size: 20px;
+}
+
+.flutuardireita{
+    width: 600px;
+    font-weight: 500px;
+float: right;
+}
+.flutuaresq{
+    float: left;
+    width: 600px;
+    height: 500px;
+}
+.caixadodiv{
+   
+  background-color: rgba(0, 0, 0, 0.521);
+    border-radius: 20px;
+    color: white;
+    position: relative;
+ width: 600px;
+max-height: 550px;
+}
+
+body{
+   background-image:url(fotoverdeminha.jpg);
+    background-repeat: no-repeat;
+  background-size: 100%;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
